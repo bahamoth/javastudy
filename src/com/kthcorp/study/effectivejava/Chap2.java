@@ -24,12 +24,12 @@ public class Chap2 {
 				new HashMap<List<Integer>, HashMap<Double, HashMap<String, String>>>();
 		
 		SlavePoi slavePoi = new SlavePoi
-				.SlavePoiBuilder(0,0).name("ì„œìš¸ëŒ€")
+				.SlavePoiBuilder(0,0).name("Å×½ºÆ®")
 				.positionX(100)
 				.positionY(200)
 				.build();
 		
-		SlavePoi slavePoi2 = new SlavePoi.SlavePoiBuilder(1,1).name("ê°œë˜¥ì´").build();
+		SlavePoi slavePoi2 = new SlavePoi.SlavePoiBuilder(1,1).name("Å×½ºÆ® ÇÑ±Û").build();
 		
 		System.out.println(slavePoi.getName() + " : " + slavePoi2.getName());
 		GeometryFactory.getInstance();
