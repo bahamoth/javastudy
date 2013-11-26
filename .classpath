@@ -13,5 +13,20 @@
 	<classpathentry kind="lib" path="lib/poi-3.9/poi-ooxml-3.9-20121203.jar"/>
 	<classpathentry kind="lib" path="lib/poi-3.9/poi-ooxml-schemas-3.9-20121203.jar"/>
 	<classpathentry kind="lib" path="lib/poi-3.9/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/fluent-hc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.3.1-bin/lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/httpasyncclient-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/httpasyncclient-cache-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-asyncclient-4.0/lib/httpcore-nio-4.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
